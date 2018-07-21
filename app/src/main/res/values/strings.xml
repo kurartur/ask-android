@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ask</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="ask">Ask</string>
+    <string name="todo">TODO</string>
+    <string name="sample">Sample</string>
+    <string name="not_interested">Not interested</string>
+    <string name="subject">Subject</string>
+    <string name="text">Text</string>
+    <string name="add">Add</string>
+    <string name="question">Question</string>
+    <string name="answers">Answers</string>
+    <string name="chat">Chat</string>
+</resources>
