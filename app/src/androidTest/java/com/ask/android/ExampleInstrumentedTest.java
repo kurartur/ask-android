@@ -1,4 +1,4 @@
-package com.ask.android;
+package lt.dualpair.test.ask.android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.ask.android", appContext.getPackageName());
+        assertEquals("lt.dualpair.test.ask.android", appContext.getPackageName());
     }
 }

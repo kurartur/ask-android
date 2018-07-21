@@ -1,0 +1,6 @@
+package lt.dualpair.test.ask.android.ui;
+
+import android.support.v4.app.Fragment;
+
+public class BaseFragment extends Fragment {
+}
