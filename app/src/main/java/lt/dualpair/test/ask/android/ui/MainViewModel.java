@@ -11,7 +11,7 @@ import lt.dualpair.test.ask.android.data.AppDatabase;
 import lt.dualpair.test.ask.android.data.entity.Question;
 import lt.dualpair.test.ask.android.data.repository.QuestionRepository;
 
-class MainViewModel extends AndroidViewModel {
+public class MainViewModel extends AndroidViewModel {
 
     private Flowable<List<Question>> questionsFlowable;
 
